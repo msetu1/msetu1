@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿![logo](https://github.com/msetu1/msetu1/blob/main/banner.png)
+﻿﻿﻿﻿﻿﻿﻿﻿![logo](https://i.ibb.co/LPLNdD0/images.png)
  <br>
 <h1 align="center">Hi 👋, This is Setu Akter</h1>
 <h3 align="center">Passionate Frontend Developer</h3>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript & Mongoose**
 
-- 👨‍💻 All of my projects are available at <a href="https://portfolio-of-mahin.web.app/" target="blank">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="##" target="blank">My Portfolio</a>
 
 - 📫 How to reach me **msetu5763@gmail.com**
 
