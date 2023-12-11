@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/msetu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="msetu1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahin-ahammed-441809280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahin-ahammed-441809280" height="30" width="40" /></a>
-<a href="https://fb.com/abidahmed.mahin.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mst-setu-akter-33a7872a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahin-ahammed-441809280" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100093013625415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="https://instagram.com/msetu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msetu1" height="30" width="40" /></a>
 </p>
 
