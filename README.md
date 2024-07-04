@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿![logo](https://i.ibb.co/NZH1vxz/Mst-Setu-Akter.png)
+﻿﻿﻿﻿﻿﻿﻿﻿![logo](https://i.ibb.co/0yL97Yv/github-banner-img.png)
  <br>
 <h1 align="center">Hi 👋, This is Setu Akter</h1>
 <h3 align="center">Passionate Frontend Developer</h3>
