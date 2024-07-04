@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript & Mongoose**
 
-- 👨‍💻 All of my projects are available at <a href="##" target="blank">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://667d74cdf102c1eaffc4e017--setu-portfolio.netlify.app/" target="blank">My Portfolio</a>
 
 - 📫 How to reach me **msetu5763@gmail.com**
 
@@ -28,8 +28,6 @@
 </p>
 
 ## :computer: Technologies that I know
-
-
 
 <p align="center"> <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="bootstrap" height="40"/> &nbsp; <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" height="40"/> &nbsp; <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" height="40"/> &nbsp; <img src="https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css" height="40"/> &nbsp; <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" height="40"/> &nbsp; <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" height="40"/> &nbsp; <img src="https://img.shields.io/badge/-Next-05122A?style=flat&logo=next" height="40"/> &nbsp; <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" height="40"/> &nbsp; <img src="https://img.shields.io/badge/-express.js-05122A?style=flat&logo=express" height="40"/> &nbsp; <img src="https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb" height="40"/> &nbsp; <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" height="40"/> &nbsp; <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="40"/> &nbsp; <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" height="40"/> &nbsp; <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" height="40"/> &nbsp; <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase" height="40"/> </p>
 
@@ -50,11 +48,6 @@
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=msetu1&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" />
 </p>
-
-<!-- <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=msetu1&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
-</p> -->
-
 <br />
 
 <p inline align="center">
