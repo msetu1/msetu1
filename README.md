@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **TypeScript & Mongoose**
 
-- 👨‍💻 All of my projects are available at <a href="https://667d74cdf102c1eaffc4e017--setu-portfolio.netlify.app/" target="blank">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://setu-portfolio.netlify.app/" target="blank">My Portfolio</a>
 
 - 📫 How to reach me **msetu5763@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1sV30c1faic-h75QJAeI9Yn5397Q37PTQ/view?usp=sharing" target="blank">My Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AAtoqYjt5L_m3urvAaKGtqarUM6eEOgP/view?usp=sharing" target="blank">My Resume</a>
 
 - 💬 Ask me about **JavaScript, React..**
 
